@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81341814737",
+    "project_id": "alamak-4b7de",
+    "storage_bucket": "alamak-4b7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81341814737:android:62d3cf1a513ceb363bb2f0",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd99KtN059n2cOxqRldPxW0iLABBDfH88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
